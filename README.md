@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/TU_USUARIO">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF5&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;Desarrollador+Android+y+Multiplataforma;Entusiasta+de+Linux+y+CachyOS;Automatizador+de+rutinas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF5&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;Desarrollador+Android+y+Multiplataforma;Entusiasta+de+Linux;Automatizador+de+rutinas" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,6 +18,8 @@ Desde Ourense, me dedico a crear herramientas que resuelven problemas reales. Tr
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Prolog-F3E7CA?style=for-the-badge&logo=prolog&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-F3E7CA?style=for-the-badge&logo=java&logoColor=black" />
+
 </p>
 
 **Entornos y Sistemas**
@@ -60,5 +62,5 @@ Desde Ourense, me dedico a crear herramientas que resuelven problemas reales. Tr
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/TU_USUARIO/count.svg" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/fOrta-24/count.svg" alt="Profile Views" />
 </p>
