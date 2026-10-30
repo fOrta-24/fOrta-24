@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/TU_USUARIO">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2ACD07&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;Desarrollador+Android+y+Multiplataforma;Entusiasta+de+Linux;Automatizador+de+rutinas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2ACD07&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica; Desarrollador+Android+y+Multiplataforma;Entusiasta+de+Linux;Automatizador+de+rutinas" alt="Typing SVG" />
   </a>
 </div>
 
